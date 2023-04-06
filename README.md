@@ -2,22 +2,33 @@
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- Remote Desktop (Windows)
+- OsTicket
 
-<h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
-
-<h2>List of Prerequisites</h2>
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
 
 <h2>Installation Steps</h2>
+In order to properly interact with OsTicket, I must first download the prerequisites to make sure the software is working correctly when resolving tickets as a Support Tech. First we will Install / enable IIS in Windows with CGI. CGI is needed to install our PHP manager (backend language used by OsTicket). 
+
+<p>
+<img src="https://i.imgur.com/o0EjfuU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XgO0LWj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eW1YlcH.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pKSolzw.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+Next, I have registered the PHP in IIS and then I connected my SQL database to the OsTicket software in order to obatin the correct information for my ticket system.
+
+<p>
+<img src="https://i.imgur.com/yMvaAmS.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/D81zu7o.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1oMEXDO.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/in8N3Li.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aTF0JyE.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ygshU73.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

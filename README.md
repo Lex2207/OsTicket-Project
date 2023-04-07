@@ -65,7 +65,7 @@ Configuring SLAs (SEV- A, B, & C)
 </p>
 
 
-Configuring Help Topics
+Configuring Help Topics (Password Reset, Personal Computer Issues, & Business Critical Outage)
 <p>
 <img src="https://i.imgur.com/BJWJtB5.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>

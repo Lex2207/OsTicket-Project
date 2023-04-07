@@ -21,9 +21,8 @@ In order to properly interact with OsTicket, I must first download the prerequis
 Next, I have registered the PHP in IIS and then I connected my SQL database to the OsTicket software in order to obatin the correct information for my ticket system.
 
 <p>
-<img src="https://i.imgur.com/yMvaAmS.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <img src="https://i.imgur.com/D81zu7o.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/1oMEXDO.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/in8N3Li.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/aTF0JyE.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/ygshU73.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

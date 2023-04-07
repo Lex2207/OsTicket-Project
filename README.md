@@ -46,7 +46,7 @@ Configuring Teams (Support II)
 </p>
 
 
-Configuring Agents (Jane / John Doe) NOTE: The agents are apart of two different departments with different levels of permissions.
+Configuring Agents (Jane / John Doe) NOTE: The agents are apart of two different departments with different levels of access.
 <p>
 <img src="https://i.imgur.com/xNtxMtA.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>

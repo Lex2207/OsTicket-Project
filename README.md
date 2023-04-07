@@ -3,7 +3,7 @@
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop (Windows)
-- OsTicket
+- OsTicket Installer
 
 
 
@@ -29,27 +29,45 @@ Next, I have registered the PHP in IIS and then I connected my SQL database to t
 <img src="https://i.imgur.com/ygshU73.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+In this Section I will provide examples of all different types of configurations within OsTicket. () = created example in software
 
+Configuring Roles (Supreme Admin)
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/j8cOZFi.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
+Configuring Departments (System Admin)
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GjmIYLP.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
+Configuring Teams (Support II)
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CwX0rA6.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+
+Configuring Agents (Jane / John Doe)
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/xNtxMtA.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
+
+
+Configuring Users (Ken & Karen) NOTE: This is the only configuration done inside the Agent Panel, everything else is done under the Admin Panel.
+<p>
+<img src="https://i.imgur.com/Te9rFyw.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+Configuring SLAs (SEV- A, B, & C)
+<p>
+<img src="https://i.imgur.com/4EQvC7I.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+Configuring Help Topics
+<p>
+<img src="https://i.imgur.com/BJWJtB5.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+

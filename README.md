@@ -8,7 +8,7 @@
 
 
 <h2>Installation Steps</h2>
-In order to properly interact with OsTicket, I must first download the prerequisites to make sure the software is working correctly when resolving tickets as a Support Tech. First we will Install / enable IIS in Windows with CGI. CGI is needed to install our PHP manager (backend language used by OsTicket). 
+In order to properly interact with OsTicket, I must first download the prerequisites to make sure the software is working correctly when resolving tickets as a Support Tech. First I Install / enable IIS in Windows with CGI. CGI is needed to install our PHP manager (backend language used by OsTicket). 
 
 <p>
 <img src="https://i.imgur.com/o0EjfuU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
